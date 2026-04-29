@@ -1,0 +1,6 @@
+{
+  "name": "Manufaktur Shop",
+  "description": "Ein moderner Online-Shop für 3D-Druck, CNC-Frästeile, Vanlife-Zubehör und Lasergravuren.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
